@@ -1,5 +1,8 @@
 # 🏥 Personalized Healthcare Assistant
 
+<img width="1509" height="945" alt="Screenshot 2025-11-24 at 7 25 09 PM" src="https://github.com/user-attachments/assets/a6b8b93f-8542-4b11-abdc-0d8b10bc04ed" />
+
+
 A Machine Learning–powered desktop application that predicts **diseases from symptoms** and provides **helpful recommendations**.  
 This project includes data preprocessing, model training, evaluation, and an interactive **Tkinter GUI** for end-users.
 
